@@ -1,1 +1,1 @@
-This is a simple website for a business who writes reviews on routers. 
+https://pensive-shockley-f1d5dd.netlify.app/
